@@ -1,0 +1,18 @@
+## 🗂️ Sample Merged DataFrame and Results
+
+```text
+        Date  CoffeePrice  production  consumption     USDINR
+0 2003-12-01     0.642214     23540.0       5835.0  45.476087
+1 2004-01-01     0.724895     22955.0       6010.0  45.343955
+2 2004-02-01     0.731416     22955.0       6010.0  45.197150
+3 2004-03-01     0.750826     22955.0       6010.0  44.880261
+4 2004-04-01     0.704281     22955.0       6010.0  43.810285
+
+DataFrame shape: (193, 5)
+
+--- Model Evaluation ---
+RMSE: 0.23177271666240404
+R2 Score: -0.6675759104411787
+
+--- Next Month's Prediction ---
+Predicted Coffee Price for the next month: $0.73
