@@ -32,3 +32,6 @@ The goal is to assist in **decision-making for bulk coffee purchases**, ensuring
 
 6. **Prediction**
    - Predicted **next month’s coffee price** based on latest data.  
+
+This prediction can help in inventory planning and purchasing strategies.
+For example, a rising predicted price may encourage early bulk purchases, while a falling price may favor delayed procurement.
